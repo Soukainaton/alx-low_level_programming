@@ -2,7 +2,7 @@
 
 /**
  * pop_listint - deletes the head node of a linked list
- * @h: pointer to the first node in the linked list 
+ * @h: pointer to the first node in the linked list
  *
  * Return: the data inside the deleted node,
  * or 0 if the linked list is empty
